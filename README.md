@@ -4,7 +4,7 @@
 
 Meu primeiro arquivo no projeto do curso de Git e GitHub.
 
-* Links para exemplos de readme.md: *
+*Links para exemplos de readme.md:*
 * Alura: https://github.com/alura-cursos/readme-template
 * Diana Regina: https://gist.github.com/reginadiana/e044fe93ed81aa04a10361cb841c0409
 
